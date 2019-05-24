@@ -1,15 +1,23 @@
 .floats {
-  float: right;
-  text-align: center;
-  padding-right: 20%;
-  padding-top: 4%;
+  float: left;
+  text-align: justify;
+  padding-right: 3%;
+  padding-top: 0.02%;
 }
 
 .heading {
-  margin-top: 2%;
-  padding-left: 6%;
-  padding-top: 2%;
+  margin-top: 1%;
+  padding-left: 2%;
+  padding-top: 1%;
   padding-bottom: 2%;
   border-style: ridge;
-  background-color: skyblue;
+  background-color: gray;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  margin-left:50%;
 }
