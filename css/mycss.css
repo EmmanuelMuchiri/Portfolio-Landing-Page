@@ -21,3 +21,11 @@
   background-color:#D3D3D3 ;
   text-align: center;
 }
+.footer
+{
+  padding-top: 2%;
+  padding-bottom: 2%;
+  border-style: ridge;
+  background-color:maroon ;
+  text-align: center;
+}
