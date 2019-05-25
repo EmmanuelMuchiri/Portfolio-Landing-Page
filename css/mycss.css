@@ -77,3 +77,8 @@ img {
 p, body {
   text-align: justify;
 }
+.underline
+{
+  text-transform:uppercase;
+  color: red;
+}
