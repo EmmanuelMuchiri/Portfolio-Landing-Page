@@ -1,6 +1,9 @@
 # {Portfolio-Landing-Page}
 #### {This application shows you my resume in a nutshell.}, {25 May 2019}
 #### By **{Emmanuel Muchiri}**
+##Screenshots
+![Homepage](images/screenshot.png)
+![List Of Projects](images/screenshot1.png)
 ## Description
 {This application shows you my resume in a nutshell.It contains nearly everything you need to know about me.My photo,my profession,My background as well as my hobbies.It containts a navigation bar that you can use to scroll through.It also has a list of my projects which are live on github site. }
 ## Setup/Installation Requirements
