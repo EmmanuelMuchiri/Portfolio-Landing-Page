@@ -18,4 +18,5 @@
 ## Support and contact details
 {Contact me on my Telephone Number : +254706915605.}
 ### License
+MIT License
 Copyright (c) {2019}
